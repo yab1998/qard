@@ -1,0 +1,14 @@
+{
+  "name": "qard-sandbox",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Sandbox MVP of Qard Module A (crowd-funded qard hasan). No real money moves.",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test",
+    "simulate": "node scripts/simulate.js",
+    "build:demo": "node scripts/build-demo.js"
+  },
+  "engines": { "node": ">=20" }
+}

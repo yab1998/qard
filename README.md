@@ -4,6 +4,7 @@ Specification for a Shari`a-compliant community finance platform modelled on SoL
 
 - [Specification](docs/spec.md) — working draft for Shariah board and legal review (October 2026)
 - [Business plan](docs/business-plan.md) — Q4 2026 launch with one operator and Grok Bot agent teams, Stearns Bank (Stearns Salaam) as target bank partner, bootstrapped
+- [Sandbox MVP](app/) — working model of Module A on practice money, with [build notes](docs/mvp-build-notes.md) (November 2026)
 - [Brief to US counsel](docs/brief-counsel.md) — licensing, payments and securities questions
 - [Brief to the Shari'a Board](docs/brief-shariah-board.md) — charter, scope and questions for fatwa
 
